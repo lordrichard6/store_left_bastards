@@ -1,7 +1,9 @@
+import Products from './components/Products'
+
 const App = () => {
   return (
     <div>
-      <h1>left bastards</h1>
+      <Products />
     </div>
   );
 };
